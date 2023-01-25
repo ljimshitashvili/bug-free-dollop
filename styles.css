@@ -44,7 +44,12 @@ body{
     margin-bottom: 24px;
 }
 
-#rate-date{
+#rate{
+    margin-left: 9.03px;
+    color: cyan;
+}
+
+#date{
     margin-left: 9.03px;
 }
 
