@@ -74,6 +74,8 @@ body{
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .avatar{
@@ -112,7 +114,7 @@ h1:hover{
     color: cyan;
 }
 
-p{
+#description{
     color: #8BACD9;
     font-size: 18px;
     font-weight: 300px;
